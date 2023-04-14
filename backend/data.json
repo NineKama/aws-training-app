@@ -1,0 +1,11 @@
+[{
+    "STT": 1,
+    "Category": "EC2",
+    "Content": "Create an EC2 server",
+    "Requirement": {
+        "Name": "test",
+        "Type": "t2.micro",
+        "Storage": "8GB"
+    },
+    "Link": "/exe1"
+}]

@@ -1,0 +1,11 @@
+.App {
+  margin: 50px;
+}
+
+.ant-table td {
+  vertical-align: middle !important;
+}
+
+.ant-table-thead > tr > th {
+  text-align: center;
+}
